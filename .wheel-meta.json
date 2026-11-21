@@ -1,0 +1,22 @@
+{
+  "wheel_id": 941,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-116",
+  "project": "retaining-walls-toowoomba-suburb-guide-e1cc3babf7a198ef6b72c526",
+  "parent_t1_ref": "toowoombaretainingwalls-157",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining walls toowoomba suburb guide",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-toowoomba-suburb-guide-e1cc3babf7a198ef6b72c526/",
+  "tier": "T2",
+  "writeback_nonce": "00ddd3d8bd99a216",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/toowoombaretainingwalls-157/",
+      "anchor": "Retaining Walls Toowoomba: Site Planning Essentials",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
